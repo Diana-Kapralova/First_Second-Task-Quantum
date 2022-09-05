@@ -36,23 +36,34 @@ Matrix
 Examples:
 Input:
 3 3
+
 0 1 0
+
 0 0 0
+
 0 1 1
 Output: 2
 
 Input:
 3 4 
+
 0 0 0 1
+
 0 0 1 0
+
 0 1 0 0
+
 Output: 3
 
 Input:
 3 4
+
 0 0 0 1
+
 0 0 1 1
+
 0 1 0 1
+
 Output: 2
 
 **Solution in:** [task 2](https://github.com/Diana-Kapralova/First_Second-Task-Quantum/blob/main/Exersice_1_2/2.Islands_counting.ipynb)
