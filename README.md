@@ -1,4 +1,4 @@
-# Quantum_Test
+# Quantum_Test - Task 1 and 2
 Test Tasks for Quantum
 
 Here we can find 2 files for Tasks 1 and 2
