@@ -1,7 +1,7 @@
 # Quantum_Test - Task 1 and 2
-Test Tasks for Quantum
+Test Tasks for Quantum 
 
-Here we can find 2 files for Tasks 1 and 2
+Here we can find 2 files for Tasks 1 and 2. All solution in folder `Exercise_1_2`
 ## Task 1
 
 **What is FOR loop?**
